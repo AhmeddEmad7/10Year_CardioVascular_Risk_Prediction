@@ -70,4 +70,11 @@ This project demonstrates the application of machine learning techniques for car
 For detailed information and code implementation, please refer to the project notebook.
 
 ## :books: References
-- Dataset: [Cardiovascular Risk Dataset](https://www.kaggle.com/datasets/mamta1999/cardiovascular-risk-data)
+- Kaggle Dataset: [Cardiovascular Risk Dataset](https://www.kaggle.com/datasets/mamta1999/cardiovascular-risk-data)
+
+## :busts_in_silhouette: Contributors
+- Ahmed Elzayat
+- Nourhan Ahmed
+- Khaled Badr
+- Hazem Zakaria
+- Omar Nabil
