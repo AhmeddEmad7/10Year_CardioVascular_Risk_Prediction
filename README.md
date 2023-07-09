@@ -1,7 +1,7 @@
 # 10-Year Cardiovascular Risk Prediction using Naive Bayes Classifier
 
 ## 📋 Project Overview
-This project aims to predict the 10-year risk of coronary heart disease (CHD) based on various risk factors using a Naive Bayes (NB) classifier. The `Kaggle` dataset used in this project is sourced from an ongoing cardiovascular study conducted in Framingham, Massachusetts. It consists of over 4,000 records and 15 attributes, including demographic, behavioral, and medical risk factors.
+This project aims to predict the 10-year risk of coronary heart disease (CHD) based on various risk factors using a Naive Bayes (NB) classifier. The Kaggle dataset used in this project is sourced from an ongoing cardiovascular study conducted in Framingham, Massachusetts. It consists of over 4,000 records and 15 attributes, including demographic, behavioral, and medical risk factors.
 
 ## Dataset Description
 The dataset is structured as follows:
